@@ -31,4 +31,5 @@
    - Um grupo multifuncional de profissionais que fazem o trabalho de entregar o produto. Isso pode incluir programadores, designers, testadores e outros especialistas necessários para desenvolver e entregar o produto final.
 
 ---
+                                                     todos os direitos reservados
 
