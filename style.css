@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 200px;
+    border: solid red;
+    display: flex;
+    gap: 10px;
+}
+.primeira{
+    width: 20%;
+    height: 100%;
+    border: solid blue;
+    
+}
+.segunda{
+    width: 50%;
+    height: 100%;
+    border: solid black;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    border: solid green;
+
+}
+li{
+    border: solid yellow;
+}
+
+
+
+
+/* sessão  */
+section{
+    width: 100%;
+    height: 600px;
+    border: solid red;
+}
